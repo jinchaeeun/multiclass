@@ -1,0 +1,2 @@
+# multiclass
+class second test
